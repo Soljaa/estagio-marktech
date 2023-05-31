@@ -1,4 +1,4 @@
-Projeto de gerenciamento de alunos
+### Projeto de gerenciamento de alunos
  
 O usuário pode armazenar, listar, atualizar e deletar informações de 
 alunos em um banco de dados.
@@ -44,7 +44,9 @@ Tecnologias utilizadas:
 
 1. Clone o repositório:
 
+```
 git clone https://github.com/seu-usuario/seu-repositorio.git
+```
 
 2. Crie e ative um ambiente virtual:
 
@@ -53,21 +55,21 @@ source venv/bin/activate # Para sistemas Linux/Mac
 venv\Scripts\activate # Para Windows
 
 3. Instale as dependências:
-
+```
 pip install -r requirements.txt
-
+```
 ## Configuração
 
 1. Crie o banco de dados SQLite:
-
+```
 python database/database.py
-
+```
 ## Execução
 
 1. Inicie o servidor da API:
-
+```
 python app.py 
-
+```
 ## Endpoints
 
 Aqui estão os endpoints disponíveis na API:
@@ -82,6 +84,6 @@ Consulte a documentação completa para mais detalhes sobre os endpoints, seus p
 ## Exemplos de Uso
 
 Execute de outro terminal:
-
+```
 python tests/tests.py
-
+```
