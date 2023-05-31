@@ -4,12 +4,12 @@ O usuário pode armazenar, listar, atualizar e deletar informações de
 alunos em um banco de dados.
 
 Um aluno possui as seguintes informações:
-matrícula (inteiro)
-nome (string)
-sobrenome (string)
-email (string)
-telefone (string)
-curso (string)
+matrícula (inteiro),
+nome (string),
+sobrenome (string),
+email (string),
+telefone (string),
+curso (string),
 data de nascimento (data)
 
 ## Funcionalidades:
