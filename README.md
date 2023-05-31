@@ -1,4 +1,4 @@
-### Projeto de gerenciamento de alunos
+# Projeto de gerenciamento de alunos
  
 O usuário pode armazenar, listar, atualizar e deletar informações de 
 alunos em um banco de dados.
