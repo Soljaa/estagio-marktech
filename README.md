@@ -45,7 +45,7 @@ Tecnologias utilizadas:
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Soljaa/estagio-marktech.git
 ```
 
 2. Crie e ative um ambiente virtual:
